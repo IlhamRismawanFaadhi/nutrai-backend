@@ -1,0 +1,70 @@
+key,name,state,kcal_100g,protein_100g,carbs_100g,fat_100g,source,verified,note
+nasi,Nasi putih,cooked,130,2.7,28.2,0.3,usda,FALSE,
+nasi_merah,Nasi merah,cooked,123,2.7,25.6,1.0,usda,FALSE,
+lontong,Lontong,cooked,105,2.2,23,0.2,derived,FALSE,turunan dari nasi putih (kadar air lebih tinggi); tidak ada di USDA
+mie_telur,Mie telur,cooked,138,4.5,25.2,2.1,usda,FALSE,
+soba,Soba,cooked,99,5.1,21.4,0.1,usda,FALSE,
+spaghetti,Spaghetti,cooked,158,5.8,30.9,0.9,usda,FALSE,
+bihun,Bihun / rice vermicelli,cooked,108,0.9,24.9,0.2,usda,FALSE,
+roti_tawar,Roti tawar putih,as_eaten,265,9.0,49,3.2,usda,FALSE,
+roti_gandum,Roti gandum,as_eaten,252,12.5,43,3.5,usda,FALSE,
+oat,Oat gulung (kering),dry,379,13.2,67.7,6.5,usda,FALSE,gluten oat bisa terkontaminasi; tidak diberi tag wheat
+quinoa,Quinoa,cooked,120,4.4,21.3,1.9,usda,FALSE,
+kentang,Kentang rebus,cooked,87,1.9,20.1,0.1,usda,FALSE,
+ubi,Ubi jalar rebus,cooked,76,1.4,17.7,0.1,usda,FALSE,
+singkong,Singkong rebus,cooked,160,1.4,38,0.3,derived,FALSE,memakai nilai singkong mentah USDA sebagai pendekatan
+jagung,Jagung manis rebus (pipilan),cooked,96,3.4,21,1.5,usda,FALSE,
+terigu,Tepung terigu,dry,364,10.3,76.3,1.0,usda,FALSE,
+tepung_beras,Tepung beras,dry,366,5.9,80,1.4,usda,FALSE,
+tortilla,Tortilla gandum,as_eaten,312,8.0,51.7,8.0,usda,FALSE,
+crackers,Crackers asin,as_eaten,421,9.0,74,10,usda,FALSE,
+granola,Granola,as_eaten,471,10,64,20,product,FALSE,sangat bergantung merek
+ayam_dada,Dada ayam tanpa kulit,cooked,165,31.0,0,3.6,usda,FALSE,
+ayam_paha,Paha ayam tanpa kulit,cooked,179,24.8,0,8.2,usda,FALSE,
+sapi,Daging sapi (campur lemak),cooked,215,30,0,10,derived,FALSE,pendekatan potongan has luar/round dimasak; bervariasi menurut potongan
+sapi_giling,Daging sapi giling,cooked,250,25.9,0,15.4,usda,FALSE,
+babi,Daging babi,cooked,220,25,0,13,derived,FALSE,pendekatan bahu/loin dimasak
+telur,Telur ayam utuh,cooked,155,12.6,1.1,10.6,usda,FALSE,
+salmon,Salmon,cooked,206,22.1,0,12.4,usda,FALSE,
+tuna,"Tuna kaleng (air, ditiriskan)",as_eaten,116,25.5,0,0.8,usda,FALSE,
+nila,Ikan nila / ikan putih,cooked,128,26.2,0,2.7,usda,FALSE,dipakai juga untuk gurame/ikan putih lain
+lele,Ikan lele,cooked,152,18.5,0,8.2,usda,FALSE,
+udang,Udang,cooked,99,24.0,0.2,0.3,usda,FALSE,
+cumi,Cumi-cumi,raw,92,15.6,3.1,1.4,usda,FALSE,berat mentah
+tempe,Tempe,as_eaten,192,20.3,7.6,10.8,usda,FALSE,
+tahu,Tahu,raw,76,8.1,1.9,4.8,usda,FALSE,
+edamame,Edamame,cooked,121,11.9,8.9,5.2,usda,FALSE,
+lentil,Lentil,cooked,116,9.0,20.1,0.4,usda,FALSE,
+kacang_hijau,Kacang hijau,cooked,105,7.0,19.2,0.4,usda,FALSE,
+keju,Keju cheddar,as_eaten,403,24.9,1.3,33.1,usda,FALSE,
+cottage,Cottage cheese,as_eaten,98,11.1,3.4,4.3,usda,FALSE,
+yogurt_greek,Greek yogurt 2%,as_eaten,73,9.95,3.94,1.92,usda,FALSE,
+susu,Susu sapi full cream,as_eaten,61,3.2,4.8,3.3,usda,FALSE,
+susu_kedelai,Susu kedelai tanpa gula,as_eaten,54,3.3,6.3,1.8,usda,FALSE,
+whey,Whey protein (bubuk),as_eaten,400,80,8,6,product,FALSE,bergantung merek; cek label
+mentega,Mentega,as_eaten,717,0.9,0.1,81.1,usda,FALSE,
+krim,Krim kental (heavy cream),as_eaten,340,2.8,2.8,36,usda,FALSE,
+minyak,Minyak goreng,as_eaten,884,0,0,100,usda,FALSE,
+santan,Santan,as_eaten,197,2.0,2.8,21.3,usda,FALSE,santan kental kaleng; santan segar bervariasi
+selai_kacang,Selai kacang,as_eaten,588,25.1,20,50.4,usda,FALSE,juga dipakai sebagai pendekatan bumbu kacang
+kacang_rebus,Kacang tanah rebus,cooked,318,13.5,21.3,21.8,derived,FALSE,"nilai dari ingatan, perlu cek"
+almond,Almond,as_eaten,579,21.2,21.6,49.9,usda,FALSE,
+gula,Gula / gula merah,as_eaten,387,0,100,0,usda,FALSE,
+cokelat_hitam,Cokelat hitam 70-85%,as_eaten,598,7.8,45.9,42.6,usda,FALSE,sering mengandung jejak susu
+selai_cokelat,Selai cokelat hazelnut,as_eaten,539,6.3,57.5,30.9,product,FALSE,bergantung merek
+mayo,Mayones,as_eaten,680,1.0,0.6,75,usda,FALSE,
+dressing_caesar,Dressing Caesar,as_eaten,460,2.2,3.8,49,product,FALSE,mengandung anchovy; bergantung merek
+kecap_manis,Kecap manis,as_eaten,245,2.0,57,0.2,derived,FALSE,tidak ada di USDA; pendekatan (sebagian besar gula)
+saus_tiram,Saus tiram,as_eaten,51,1.4,11,0.3,usda,FALSE,
+teriyaki,Saus teriyaki,as_eaten,89,5.9,15.6,0,usda,FALSE,
+saus_tomat,Saus tomat,as_eaten,29,1.3,6.6,0.2,usda,FALSE,
+kaldu,Kaldu,as_eaten,6,0.6,0.4,0.2,usda,FALSE,
+sayur,Sayur campur matang,cooked,35,2.0,6.5,0.3,derived,FALSE,rata-rata sayur hijau/wortel/kol rebus
+jamur,Jamur champignon rebus,cooked,28,2.2,5.3,0.1,usda,FALSE,
+nangka_muda,Nangka,raw,95,1.7,23.3,0.6,usda,FALSE,nilai nangka masak; nangka muda lebih rendah kalori
+pisang,Pisang,raw,89,1.1,22.8,0.3,usda,FALSE,
+apel,Apel,raw,52,0.3,13.8,0.2,usda,FALSE,
+alpukat,Alpukat,raw,160,2.0,8.5,14.7,usda,FALSE,
+pepaya,Pepaya,raw,43,0.5,10.8,0.3,usda,FALSE,
+semangka,Semangka,raw,30,0.6,7.6,0.2,usda,FALSE,
+beri,Beri campur (stroberi/blueberry),raw,45,0.7,11,0.3,usda,FALSE,

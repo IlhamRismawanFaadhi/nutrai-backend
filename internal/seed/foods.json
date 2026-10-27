@@ -1,0 +1,3602 @@
+[
+ {
+  "name": "Nasi uduk telur",
+  "category": "Breakfast",
+  "serving": "1 piring",
+  "serving_g": 310,
+  "calories": 521,
+  "protein_g": 18.1,
+  "carbs_g": 56.2,
+  "fat_g": 24.9,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "rice",
+   "soy",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 160
+   },
+   {
+    "key": "santan",
+    "grams": 25
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "tempe",
+    "grams": 30
+   },
+   {
+    "key": "bihun",
+    "grams": 30
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Bubur ayam",
+  "category": "Breakfast",
+  "serving": "1 mangkuk",
+  "serving_g": 308,
+  "calories": 260,
+  "protein_g": 19.2,
+  "carbs_g": 31.7,
+  "fat_g": 5.4,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "indonesian",
+   "light",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 100
+   },
+   {
+    "key": "kaldu",
+    "grams": 150
+   },
+   {
+    "key": "ayam_dada",
+    "grams": 50
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 5
+   },
+   {
+    "key": "minyak",
+    "grams": 3
+   }
+  ]
+ },
+ {
+  "name": "Lontong sayur",
+  "category": "Breakfast",
+  "serving": "1 porsi",
+  "serving_g": 315,
+  "calories": 371,
+  "protein_g": 8.9,
+  "carbs_g": 40.8,
+  "fat_g": 20.2,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "light",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "lontong",
+    "grams": 150
+   },
+   {
+    "key": "santan",
+    "grams": 60
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   },
+   {
+    "key": "tahu",
+    "grams": 40
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Telur dadar & roti gandum",
+  "category": "Breakfast",
+  "serving": "2 telur + 2 slice",
+  "serving_g": 176,
+  "calories": 375,
+  "protein_g": 21.4,
+  "carbs_g": 27.0,
+  "fat_g": 19.8,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "light",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "telur",
+    "grams": 110
+   },
+   {
+    "key": "minyak",
+    "grams": 6
+   },
+   {
+    "key": "roti_gandum",
+    "grams": 60
+   }
+  ]
+ },
+ {
+  "name": "Greek yogurt parfait",
+  "category": "Breakfast",
+  "serving": "1 cup",
+  "serving_g": 270,
+  "calories": 340,
+  "protein_g": 21.3,
+  "carbs_g": 38.9,
+  "fat_g": 11.4,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "yogurt_greek",
+    "grams": 170
+   },
+   {
+    "key": "granola",
+    "grams": 40
+   },
+   {
+    "key": "beri",
+    "grams": 60
+   }
+  ]
+ },
+ {
+  "name": "Oatmeal pisang",
+  "category": "Breakfast",
+  "serving": "1 mangkuk",
+  "serving_g": 270,
+  "calories": 343,
+  "protein_g": 11.7,
+  "carbs_g": 64.2,
+  "fat_g": 5.7,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "oat",
+    "grams": 50
+   },
+   {
+    "key": "pisang",
+    "grams": 100
+   },
+   {
+    "key": "susu_kedelai",
+    "grams": 120
+   }
+  ]
+ },
+ {
+  "name": "Banana peanut toast",
+  "category": "Breakfast",
+  "serving": "2 slice",
+  "serving_g": 160,
+  "calories": 348,
+  "protein_g": 11.3,
+  "carbs_g": 51.6,
+  "fat_g": 12.2,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "peanut",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "roti_tawar",
+    "grams": 60
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 20
+   },
+   {
+    "key": "pisang",
+    "grams": 80
+   }
+  ]
+ },
+ {
+  "name": "Scramble tahu telur",
+  "category": "Breakfast",
+  "serving": "1 porsi",
+  "serving_g": 248,
+  "calories": 328,
+  "protein_g": 22.6,
+  "carbs_g": 5.1,
+  "fat_g": 24.6,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "light",
+   "soy",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "telur",
+    "grams": 110
+   },
+   {
+    "key": "tahu",
+    "grams": 100
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   },
+   {
+    "key": "sayur",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Smoothie bowl pisang beri",
+  "category": "Breakfast",
+  "serving": "1 mangkuk",
+  "serving_g": 345,
+  "calories": 302,
+  "protein_g": 9.1,
+  "carbs_g": 60.6,
+  "fat_g": 4.4,
+  "tags": [
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "pisang",
+    "grams": 120
+   },
+   {
+    "key": "beri",
+    "grams": 80
+   },
+   {
+    "key": "susu_kedelai",
+    "grams": 120
+   },
+   {
+    "key": "oat",
+    "grams": 25
+   }
+  ]
+ },
+ {
+  "name": "Telur rebus & ubi",
+  "category": "Breakfast",
+  "serving": "2 telur + 150 g ubi",
+  "serving_g": 260,
+  "calories": 284,
+  "protein_g": 16.0,
+  "carbs_g": 27.8,
+  "fat_g": 11.8,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "telur",
+    "grams": 110
+   },
+   {
+    "key": "ubi",
+    "grams": 150
+   }
+  ]
+ },
+ {
+  "name": "Nasi kuning & telur suwir",
+  "category": "Breakfast",
+  "serving": "1 piring",
+  "serving_g": 263,
+  "calories": 432,
+  "protein_g": 11.8,
+  "carbs_g": 48.7,
+  "fat_g": 20.7,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "rice",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 150
+   },
+   {
+    "key": "santan",
+    "grams": 30
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   },
+   {
+    "key": "bihun",
+    "grams": 20
+   }
+  ]
+ },
+ {
+  "name": "Bubur kacang hijau",
+  "category": "Breakfast",
+  "serving": "1 mangkuk",
+  "serving_g": 200,
+  "calories": 322,
+  "protein_g": 9.6,
+  "carbs_g": 44.7,
+  "fat_g": 13.3,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "kacang_hijau",
+    "grams": 120
+   },
+   {
+    "key": "santan",
+    "grams": 60
+   },
+   {
+    "key": "gula",
+    "grams": 20
+   }
+  ]
+ },
+ {
+  "name": "Roti bakar cokelat keju",
+  "category": "Breakfast",
+  "serving": "2 slice",
+  "serving_g": 95,
+  "calories": 336,
+  "protein_g": 10.1,
+  "carbs_g": 38.2,
+  "fat_g": 15.6,
+  "tags": [
+   "budget friendly",
+   "dairy",
+   "halal",
+   "light",
+   "tree nuts",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "roti_tawar",
+    "grams": 60
+   },
+   {
+    "key": "selai_cokelat",
+    "grams": 15
+   },
+   {
+    "key": "keju",
+    "grams": 15
+   },
+   {
+    "key": "mentega",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Pancake pisang oat",
+  "category": "Breakfast",
+  "serving": "3 buah",
+  "serving_g": 260,
+  "calories": 407,
+  "protein_g": 15.2,
+  "carbs_g": 53.4,
+  "fat_g": 15.7,
+  "tags": [
+   "dairy",
+   "egg",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "oat",
+    "grams": 40
+   },
+   {
+    "key": "pisang",
+    "grams": 100
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "susu",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Cheese omelette",
+  "category": "Breakfast",
+  "serving": "2 telur",
+  "serving_g": 143,
+  "calories": 329,
+  "protein_g": 20.2,
+  "carbs_g": 1.5,
+  "fat_g": 26.4,
+  "tags": [
+   "dairy",
+   "egg",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "telur",
+    "grams": 110
+   },
+   {
+    "key": "keju",
+    "grams": 25
+   },
+   {
+    "key": "mentega",
+    "grams": 8
+   }
+  ]
+ },
+ {
+  "name": "Overnight oats buah",
+  "category": "Breakfast",
+  "serving": "1 jar",
+  "serving_g": 305,
+  "calories": 325,
+  "protein_g": 16.6,
+  "carbs_g": 46.8,
+  "fat_g": 8.6,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "oat",
+    "grams": 45
+   },
+   {
+    "key": "susu",
+    "grams": 130
+   },
+   {
+    "key": "yogurt_greek",
+    "grams": 60
+   },
+   {
+    "key": "beri",
+    "grams": 70
+   }
+  ]
+ },
+ {
+  "name": "Dadar jagung",
+  "category": "Breakfast",
+  "serving": "2 potong",
+  "serving_g": 174,
+  "calories": 377,
+  "protein_g": 12.2,
+  "carbs_g": 36.5,
+  "fat_g": 21.3,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "light",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "jagung",
+    "grams": 80
+   },
+   {
+    "key": "terigu",
+    "grams": 25
+   },
+   {
+    "key": "minyak",
+    "grams": 14
+   }
+  ]
+ },
+ {
+  "name": "Bubur sumsum",
+  "category": "Breakfast",
+  "serving": "1 mangkuk",
+  "serving_g": 105,
+  "calories": 304,
+  "protein_g": 3.1,
+  "carbs_g": 49.4,
+  "fat_g": 11.1,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "tepung_beras",
+    "grams": 35
+   },
+   {
+    "key": "santan",
+    "grams": 50
+   },
+   {
+    "key": "gula",
+    "grams": 20
+   }
+  ]
+ },
+ {
+  "name": "Chicken rice bowl",
+  "category": "Lunch",
+  "serving": "1 mangkuk",
+  "serving_g": 366,
+  "calories": 506,
+  "protein_g": 43.3,
+  "carbs_g": 54.7,
+  "fat_g": 11.0,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "rice"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "ayam_dada",
+    "grams": 120
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 6
+   }
+  ]
+ },
+ {
+  "name": "Nasi pecel tempe",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 363,
+  "calories": 573,
+  "protein_g": 22.0,
+  "carbs_g": 70.1,
+  "fat_g": 24.3,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "peanut",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "tempe",
+    "grams": 50
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 20
+   },
+   {
+    "key": "gula",
+    "grams": 5
+   },
+   {
+    "key": "sayur",
+    "grams": 100
+   }
+  ]
+ },
+ {
+  "name": "Gado-gado",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 411,
+  "calories": 595,
+  "protein_g": 29.4,
+  "carbs_g": 46.0,
+  "fat_g": 35.2,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "peanut",
+   "rice",
+   "soy",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "sayur",
+    "grams": 150
+   },
+   {
+    "key": "tahu",
+    "grams": 50
+   },
+   {
+    "key": "tempe",
+    "grams": 30
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "lontong",
+    "grams": 80
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 30
+   },
+   {
+    "key": "gula",
+    "grams": 8
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   }
+  ]
+ },
+ {
+  "name": "Soto ayam & nasi",
+  "category": "Lunch",
+  "serving": "1 mangkuk + nasi",
+  "serving_g": 570,
+  "calories": 510,
+  "protein_g": 30.4,
+  "carbs_g": 54.2,
+  "fat_g": 17.6,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "egg",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 160
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 70
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   },
+   {
+    "key": "bihun",
+    "grams": 30
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   }
+  ]
+ },
+ {
+  "name": "Nasi ayam bakar & lalapan",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 365,
+  "calories": 535,
+  "protein_g": 35.8,
+  "carbs_g": 59.7,
+  "fat_g": 15.5,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 120
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 10
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Nasi tempe orek & sayur",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 354,
+  "calories": 525,
+  "protein_g": 20.9,
+  "carbs_g": 71.0,
+  "fat_g": 18.4,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "tempe",
+    "grams": 70
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 10
+   },
+   {
+    "key": "gula",
+    "grams": 4
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "sayur",
+    "grams": 80
+   }
+  ]
+ },
+ {
+  "name": "Pepes ikan & nasi",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 333,
+  "calories": 425,
+  "protein_g": 36.9,
+  "carbs_g": 52.7,
+  "fat_g": 6.9,
+  "tags": [
+   "fish",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "nila",
+    "grams": 120
+   },
+   {
+    "key": "sayur",
+    "grams": 30
+   },
+   {
+    "key": "minyak",
+    "grams": 3
+   }
+  ]
+ },
+ {
+  "name": "Mie ayam",
+  "category": "Lunch",
+  "serving": "1 mangkuk",
+  "serving_g": 420,
+  "calories": 516,
+  "protein_g": 25.5,
+  "carbs_g": 59.1,
+  "fat_g": 19.5,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "egg",
+   "halal",
+   "indonesian",
+   "soy",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "mie_telur",
+    "grams": 200
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 10
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   },
+   {
+    "key": "kaldu",
+    "grams": 100
+   }
+  ]
+ },
+ {
+  "name": "Nasi rawon",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 550,
+  "calories": 510,
+  "protein_g": 30.9,
+  "carbs_g": 51.5,
+  "fat_g": 19.1,
+  "tags": [
+   "beef",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 170
+   },
+   {
+    "key": "sapi",
+    "grams": 80
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Tuna sandwich gandum",
+  "category": "Lunch",
+  "serving": "1 sandwich",
+  "serving_g": 195,
+  "calories": 382,
+  "protein_g": 29.9,
+  "carbs_g": 32.1,
+  "fat_g": 14.4,
+  "tags": [
+   "egg",
+   "fish",
+   "halal",
+   "light",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "roti_gandum",
+    "grams": 70
+   },
+   {
+    "key": "tuna",
+    "grams": 80
+   },
+   {
+    "key": "mayo",
+    "grams": 15
+   },
+   {
+    "key": "sayur",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Nasi goreng sayur telur",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 329,
+  "calories": 498,
+  "protein_g": 13.6,
+  "carbs_g": 67.1,
+  "fat_g": 18.6,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "rice",
+   "soy",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 200
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "minyak",
+    "grams": 12
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 12
+   }
+  ]
+ },
+ {
+  "name": "Char siu rice",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 360,
+  "calories": 591,
+  "protein_g": 31.2,
+  "carbs_g": 72.6,
+  "fat_g": 18.7,
+  "tags": [
+   "high protein",
+   "pork",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": false,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "babi",
+    "grams": 100
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 15
+   },
+   {
+    "key": "gula",
+    "grams": 10
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Nasi padang ayam pop",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 512,
+  "calories": 758,
+  "protein_g": 41.2,
+  "carbs_g": 69.9,
+  "fat_g": 34.3,
+  "tags": [
+   "chicken",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 220
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 130
+   },
+   {
+    "key": "minyak",
+    "grams": 12
+   },
+   {
+    "key": "santan",
+    "grams": 50
+   },
+   {
+    "key": "sayur",
+    "grams": 100
+   }
+  ]
+ },
+ {
+  "name": "Nasi padang rendang",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 470,
+  "calories": 701,
+  "protein_g": 35.9,
+  "carbs_g": 69.9,
+  "fat_g": 30.6,
+  "tags": [
+   "beef",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 220
+   },
+   {
+    "key": "sapi",
+    "grams": 90
+   },
+   {
+    "key": "santan",
+    "grams": 50
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "sayur",
+    "grams": 100
+   }
+  ]
+ },
+ {
+  "name": "Soto betawi",
+  "category": "Lunch",
+  "serving": "1 mangkuk",
+  "serving_g": 515,
+  "calories": 520,
+  "protein_g": 29.0,
+  "carbs_g": 16.4,
+  "fat_g": 39.1,
+  "tags": [
+   "beef",
+   "halal",
+   "indonesian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "sapi",
+    "grams": 80
+   },
+   {
+    "key": "santan",
+    "grams": 120
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   },
+   {
+    "key": "kentang",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Bakso & mie",
+  "category": "Lunch",
+  "serving": "1 mangkuk",
+  "serving_g": 533,
+  "calories": 568,
+  "protein_g": 30.8,
+  "carbs_g": 65.8,
+  "fat_g": 19.0,
+  "tags": [
+   "beef",
+   "budget friendly",
+   "egg",
+   "halal",
+   "high protein",
+   "indonesian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "sapi_giling",
+    "grams": 80
+   },
+   {
+    "key": "tepung_beras",
+    "grams": 40
+   },
+   {
+    "key": "mie_telur",
+    "grams": 120
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   },
+   {
+    "key": "minyak",
+    "grams": 3
+   }
+  ]
+ },
+ {
+  "name": "Nasi liwet ayam",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 430,
+  "calories": 700,
+  "protein_g": 38.2,
+  "carbs_g": 67.4,
+  "fat_g": 30.7,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice",
+   "soy"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 220
+   },
+   {
+    "key": "santan",
+    "grams": 40
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 100
+   },
+   {
+    "key": "tempe",
+    "grams": 30
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "sayur",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Gudeg nasi telur",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 418,
+  "calories": 648,
+  "protein_g": 14.6,
+  "carbs_g": 92.9,
+  "fat_g": 25.7,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "rice",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 170
+   },
+   {
+    "key": "nangka_muda",
+    "grams": 120
+   },
+   {
+    "key": "santan",
+    "grams": 50
+   },
+   {
+    "key": "gula",
+    "grams": 15
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   }
+  ]
+ },
+ {
+  "name": "Karedok",
+  "category": "Lunch",
+  "serving": "1 porsi",
+  "serving_g": 268,
+  "calories": 335,
+  "protein_g": 17.6,
+  "carbs_g": 29.3,
+  "fat_g": 19.0,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "light",
+   "peanut",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "sayur",
+    "grams": 200
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 30
+   },
+   {
+    "key": "gula",
+    "grams": 8
+   },
+   {
+    "key": "tempe",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Ketoprak",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 358,
+  "calories": 574,
+  "protein_g": 17.8,
+  "carbs_g": 64.9,
+  "fat_g": 29.0,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "peanut",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "lontong",
+    "grams": 150
+   },
+   {
+    "key": "bihun",
+    "grams": 50
+   },
+   {
+    "key": "tahu",
+    "grams": 70
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 30
+   },
+   {
+    "key": "gula",
+    "grams": 8
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   }
+  ]
+ },
+ {
+  "name": "Mie goreng telur",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 384,
+  "calories": 608,
+  "protein_g": 19.5,
+  "carbs_g": 75.4,
+  "fat_g": 25.3,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "soy",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "mie_telur",
+    "grams": 250
+   },
+   {
+    "key": "telur",
+    "grams": 55
+   },
+   {
+    "key": "minyak",
+    "grams": 14
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 15
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   }
+  ]
+ },
+ {
+  "name": "Chicken caesar wrap",
+  "category": "Lunch",
+  "serving": "1 wrap",
+  "serving_g": 255,
+  "calories": 556,
+  "protein_g": 40.6,
+  "carbs_g": 40.5,
+  "fat_g": 24.9,
+  "tags": [
+   "chicken",
+   "dairy",
+   "egg",
+   "fish",
+   "halal",
+   "high protein",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "tortilla",
+    "grams": 70
+   },
+   {
+    "key": "ayam_dada",
+    "grams": 100
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   },
+   {
+    "key": "dressing_caesar",
+    "grams": 25
+   },
+   {
+    "key": "keju",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Tuna poke bowl",
+  "category": "Lunch",
+  "serving": "1 mangkuk",
+  "serving_g": 400,
+  "calories": 505,
+  "protein_g": 33.2,
+  "carbs_g": 60.6,
+  "fat_g": 13.8,
+  "tags": [
+   "fish",
+   "halal",
+   "high protein",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "premium",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "tuna",
+    "grams": 100
+   },
+   {
+    "key": "alpukat",
+    "grams": 50
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   },
+   {
+    "key": "teriyaki",
+    "grams": 15
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Kari sayur & nasi",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 510,
+  "calories": 608,
+  "protein_g": 11.3,
+  "carbs_g": 84.2,
+  "fat_g": 26.0,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "rice",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 200
+   },
+   {
+    "key": "sayur",
+    "grams": 150
+   },
+   {
+    "key": "santan",
+    "grams": 70
+   },
+   {
+    "key": "kentang",
+    "grams": 80
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Nasi ayam geprek",
+  "category": "Lunch",
+  "serving": "1 piring",
+  "serving_g": 393,
+  "calories": 735,
+  "protein_g": 38.3,
+  "carbs_g": 77.4,
+  "fat_g": 28.8,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 200
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 120
+   },
+   {
+    "key": "terigu",
+    "grams": 25
+   },
+   {
+    "key": "minyak",
+    "grams": 18
+   },
+   {
+    "key": "sayur",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Tofu soba stir fry",
+  "category": "Dinner",
+  "serving": "1 porsi",
+  "serving_g": 423,
+  "calories": 388,
+  "protein_g": 21.8,
+  "carbs_g": 49.6,
+  "fat_g": 14.2,
+  "tags": [
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "soba",
+    "grams": 180
+   },
+   {
+    "key": "tahu",
+    "grams": 120
+   },
+   {
+    "key": "sayur",
+    "grams": 100
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   },
+   {
+    "key": "teriyaki",
+    "grams": 15
+   }
+  ]
+ },
+ {
+  "name": "Salmon quinoa bowl",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 345,
+  "calories": 513,
+  "protein_g": 36.5,
+  "carbs_g": 35.9,
+  "fat_g": 24.1,
+  "tags": [
+   "fish",
+   "halal",
+   "high protein"
+  ],
+  "budget": "premium",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "salmon",
+    "grams": 130
+   },
+   {
+    "key": "quinoa",
+    "grams": 150
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Chicken vegetable soup",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 530,
+  "calories": 274,
+  "protein_g": 36.0,
+  "carbs_g": 20.9,
+  "fat_g": 4.5,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "light"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_dada",
+    "grams": 100
+   },
+   {
+    "key": "sayur",
+    "grams": 120
+   },
+   {
+    "key": "kentang",
+    "grams": 60
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   }
+  ]
+ },
+ {
+  "name": "Chicken noodle soup",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 523,
+  "calories": 395,
+  "protein_g": 33.9,
+  "carbs_g": 41.4,
+  "fat_g": 9.7,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "egg",
+   "halal",
+   "high protein",
+   "light",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_dada",
+    "grams": 80
+   },
+   {
+    "key": "mie_telur",
+    "grams": 150
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   },
+   {
+    "key": "minyak",
+    "grams": 3
+   }
+  ]
+ },
+ {
+  "name": "Grilled chicken potato plate",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 418,
+  "calories": 513,
+  "protein_g": 51.5,
+  "carbs_g": 44.1,
+  "fat_g": 13.8,
+  "tags": [
+   "chicken",
+   "halal",
+   "high protein"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_dada",
+    "grams": 150
+   },
+   {
+    "key": "kentang",
+    "grams": 200
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   }
+  ]
+ },
+ {
+  "name": "Tempeh rice bowl",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 376,
+  "calories": 544,
+  "protein_g": 26.9,
+  "carbs_g": 68.1,
+  "fat_g": 19.6,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "tempe",
+    "grams": 100
+   },
+   {
+    "key": "sayur",
+    "grams": 80
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 8
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   }
+  ]
+ },
+ {
+  "name": "Pecel lele & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 388,
+  "calories": 696,
+  "protein_g": 33.1,
+  "carbs_g": 61.0,
+  "fat_g": 35.6,
+  "tags": [
+   "budget friendly",
+   "fish",
+   "halal",
+   "high protein",
+   "indonesian",
+   "peanut",
+   "rice"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "lele",
+    "grams": 120
+   },
+   {
+    "key": "minyak",
+    "grams": 15
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 20
+   },
+   {
+    "key": "gula",
+    "grams": 3
+   },
+   {
+    "key": "sayur",
+    "grams": 50
+   }
+  ]
+ },
+ {
+  "name": "Ikan bakar & sayur asem",
+  "category": "Dinner",
+  "serving": "1 ikan + nasi",
+  "serving_g": 434,
+  "calories": 489,
+  "protein_g": 45.9,
+  "carbs_g": 55.8,
+  "fat_g": 8.9,
+  "tags": [
+   "fish",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 150
+   },
+   {
+    "key": "nila",
+    "grams": 150
+   },
+   {
+    "key": "sayur",
+    "grams": 120
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 10
+   },
+   {
+    "key": "minyak",
+    "grams": 4
+   }
+  ]
+ },
+ {
+  "name": "Capcay ayam",
+  "category": "Dinner",
+  "serving": "1 porsi",
+  "serving_g": 315,
+  "calories": 315,
+  "protein_g": 32.1,
+  "carbs_g": 14.7,
+  "fat_g": 13.9,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "light",
+   "shellfish",
+   "soy",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_dada",
+    "grams": 90
+   },
+   {
+    "key": "sayur",
+    "grams": 200
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "saus_tiram",
+    "grams": 15
+   }
+  ]
+ },
+ {
+  "name": "Sayur lodeh & tempe",
+  "category": "Dinner",
+  "serving": "1 mangkuk + nasi",
+  "serving_g": 436,
+  "calories": 554,
+  "protein_g": 18.8,
+  "carbs_g": 58.1,
+  "fat_g": 29.3,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 150
+   },
+   {
+    "key": "sayur",
+    "grams": 150
+   },
+   {
+    "key": "santan",
+    "grams": 80
+   },
+   {
+    "key": "tempe",
+    "grams": 50
+   },
+   {
+    "key": "minyak",
+    "grams": 6
+   }
+  ]
+ },
+ {
+  "name": "Sate ayam & lontong",
+  "category": "Dinner",
+  "serving": "10 tusuk",
+  "serving_g": 340,
+  "calories": 696,
+  "protein_g": 44.6,
+  "carbs_g": 55.0,
+  "fat_g": 33.6,
+  "tags": [
+   "chicken",
+   "halal",
+   "high protein",
+   "indonesian",
+   "peanut",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_paha",
+    "grams": 130
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 35
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 15
+   },
+   {
+    "key": "lontong",
+    "grams": 150
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   },
+   {
+    "key": "gula",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Udang saus tiram & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 398,
+  "calories": 465,
+  "protein_g": 37.5,
+  "carbs_g": 57.1,
+  "fat_g": 9.2,
+  "tags": [
+   "halal",
+   "high protein",
+   "rice",
+   "shellfish",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "udang",
+    "grams": 130
+   },
+   {
+    "key": "saus_tiram",
+    "grams": 20
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   }
+  ]
+ },
+ {
+  "name": "Beef stir fry & brown rice",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 415,
+  "calories": 589,
+  "protein_g": 40.1,
+  "carbs_g": 54.2,
+  "fat_g": 23.1,
+  "tags": [
+   "beef",
+   "halal",
+   "high protein",
+   "rice",
+   "shellfish",
+   "soy",
+   "wheat"
+  ],
+  "budget": "premium",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi_merah",
+    "grams": 180
+   },
+   {
+    "key": "sapi",
+    "grams": 110
+   },
+   {
+    "key": "saus_tiram",
+    "grams": 15
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "sayur",
+    "grams": 100
+   }
+  ]
+ },
+ {
+  "name": "Bak kut teh & nasi",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 583,
+  "calories": 510,
+  "protein_g": 31.6,
+  "carbs_g": 54.8,
+  "fat_g": 17.1,
+  "tags": [
+   "high protein",
+   "pork",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": false,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 170
+   },
+   {
+    "key": "babi",
+    "grams": 100
+   },
+   {
+    "key": "kaldu",
+    "grams": 300
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 10
+   },
+   {
+    "key": "minyak",
+    "grams": 3
+   }
+  ]
+ },
+ {
+  "name": "Pasta ayam jamur",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 415,
+  "calories": 693,
+  "protein_g": 43.1,
+  "carbs_g": 72.3,
+  "fat_g": 24.7,
+  "tags": [
+   "chicken",
+   "dairy",
+   "halal",
+   "high protein",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "spaghetti",
+    "grams": 220
+   },
+   {
+    "key": "ayam_dada",
+    "grams": 90
+   },
+   {
+    "key": "jamur",
+    "grams": 60
+   },
+   {
+    "key": "krim",
+    "grams": 40
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Spaghetti bolognese",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 405,
+  "calories": 621,
+  "protein_g": 34.8,
+  "carbs_g": 74.6,
+  "fat_g": 19.5,
+  "tags": [
+   "beef",
+   "halal",
+   "high protein",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "spaghetti",
+    "grams": 220
+   },
+   {
+    "key": "sapi_giling",
+    "grams": 80
+   },
+   {
+    "key": "saus_tomat",
+    "grams": 100
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Steak ayam & sayur panggang",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 300,
+  "calories": 411,
+  "protein_g": 55.1,
+  "carbs_g": 7.8,
+  "fat_g": 16.5,
+  "tags": [
+   "chicken",
+   "halal",
+   "high protein",
+   "light"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_dada",
+    "grams": 170
+   },
+   {
+    "key": "sayur",
+    "grams": 120
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Gurame asam manis & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 414,
+  "calories": 588,
+  "protein_g": 42.7,
+  "carbs_g": 67.4,
+  "fat_g": 16.5,
+  "tags": [
+   "fish",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "nila",
+    "grams": 140
+   },
+   {
+    "key": "minyak",
+    "grams": 12
+   },
+   {
+    "key": "saus_tomat",
+    "grams": 40
+   },
+   {
+    "key": "gula",
+    "grams": 12
+   },
+   {
+    "key": "sayur",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Tumis kangkung tahu & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 418,
+  "calories": 436,
+  "protein_g": 16.7,
+  "carbs_g": 60.6,
+  "fat_g": 14.6,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "rice",
+   "shellfish",
+   "soy",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "tahu",
+    "grams": 120
+   },
+   {
+    "key": "sayur",
+    "grams": 100
+   },
+   {
+    "key": "minyak",
+    "grams": 8
+   },
+   {
+    "key": "saus_tiram",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Semur daging & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 346,
+  "calories": 573,
+  "protein_g": 33.2,
+  "carbs_g": 72.2,
+  "fat_g": 15.6,
+  "tags": [
+   "beef",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "sapi",
+    "grams": 90
+   },
+   {
+    "key": "kecap_manis",
+    "grams": 20
+   },
+   {
+    "key": "kentang",
+    "grams": 50
+   },
+   {
+    "key": "minyak",
+    "grams": 6
+   }
+  ]
+ },
+ {
+  "name": "Opor ayam & lontong",
+  "category": "Dinner",
+  "serving": "1 porsi",
+  "serving_g": 365,
+  "calories": 596,
+  "protein_g": 32.6,
+  "carbs_g": 37.3,
+  "fat_g": 35.6,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "lontong",
+    "grams": 150
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 110
+   },
+   {
+    "key": "santan",
+    "grams": 100
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Ikan nila goreng & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 382,
+  "calories": 546,
+  "protein_g": 45.0,
+  "carbs_g": 53.4,
+  "fat_g": 16.7,
+  "tags": [
+   "budget friendly",
+   "fish",
+   "halal",
+   "high protein",
+   "indonesian",
+   "rice"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "nila",
+    "grams": 150
+   },
+   {
+    "key": "minyak",
+    "grams": 12
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   }
+  ]
+ },
+ {
+  "name": "Telur balado & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 342,
+  "calories": 523,
+  "protein_g": 19.4,
+  "carbs_g": 54.6,
+  "fat_g": 24.3,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "indonesian",
+   "rice",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "telur",
+    "grams": 110
+   },
+   {
+    "key": "minyak",
+    "grams": 12
+   },
+   {
+    "key": "saus_tomat",
+    "grams": 20
+   },
+   {
+    "key": "sayur",
+    "grams": 20
+   }
+  ]
+ },
+ {
+  "name": "Tahu tempe penyet & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 374,
+  "calories": 548,
+  "protein_g": 24.3,
+  "carbs_g": 59.4,
+  "fat_g": 25.0,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "rice",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "tahu",
+    "grams": 80
+   },
+   {
+    "key": "tempe",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 14
+   },
+   {
+    "key": "sayur",
+    "grams": 40
+   }
+  ]
+ },
+ {
+  "name": "Sup ayam jamur",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 480,
+  "calories": 208,
+  "protein_g": 32.3,
+  "carbs_g": 9.4,
+  "fat_g": 4.0,
+  "tags": [
+   "budget friendly",
+   "chicken",
+   "halal",
+   "high protein",
+   "light"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "ayam_dada",
+    "grams": 90
+   },
+   {
+    "key": "jamur",
+    "grams": 60
+   },
+   {
+    "key": "sayur",
+    "grams": 80
+   },
+   {
+    "key": "kaldu",
+    "grams": 250
+   }
+  ]
+ },
+ {
+  "name": "Cumi saus padang & nasi",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 405,
+  "calories": 497,
+  "protein_g": 29.0,
+  "carbs_g": 64.4,
+  "fat_g": 12.8,
+  "tags": [
+   "halal",
+   "indonesian",
+   "rice",
+   "shellfish"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "cumi",
+    "grams": 150
+   },
+   {
+    "key": "saus_tomat",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   },
+   {
+    "key": "gula",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Chicken teriyaki & rice",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 405,
+  "calories": 550,
+  "protein_g": 38.2,
+  "carbs_g": 60.9,
+  "fat_g": 15.6,
+  "tags": [
+   "chicken",
+   "halal",
+   "high protein",
+   "rice",
+   "soy",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "nasi",
+    "grams": 180
+   },
+   {
+    "key": "ayam_paha",
+    "grams": 120
+   },
+   {
+    "key": "teriyaki",
+    "grams": 40
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Tofu veggie curry",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 405,
+  "calories": 396,
+  "protein_g": 20.2,
+  "carbs_g": 13.8,
+  "fat_g": 32.0,
+  "tags": [
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "tahu",
+    "grams": 200
+   },
+   {
+    "key": "sayur",
+    "grams": 120
+   },
+   {
+    "key": "santan",
+    "grams": 80
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Grilled salmon & sweet potato",
+  "category": "Dinner",
+  "serving": "1 piring",
+  "serving_g": 375,
+  "calories": 470,
+  "protein_g": 32.5,
+  "carbs_g": 35.8,
+  "fat_g": 21.5,
+  "tags": [
+   "fish",
+   "halal",
+   "high protein"
+  ],
+  "budget": "premium",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "salmon",
+    "grams": 130
+   },
+   {
+    "key": "ubi",
+    "grams": 180
+   },
+   {
+    "key": "sayur",
+    "grams": 60
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Sup lentil",
+  "category": "Dinner",
+  "serving": "1 mangkuk",
+  "serving_g": 485,
+  "calories": 316,
+  "protein_g": 20.8,
+  "carbs_g": 46.2,
+  "fat_g": 6.4,
+  "tags": [
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "lentil",
+    "grams": 200
+   },
+   {
+    "key": "sayur",
+    "grams": 80
+   },
+   {
+    "key": "kaldu",
+    "grams": 200
+   },
+   {
+    "key": "minyak",
+    "grams": 5
+   }
+  ]
+ },
+ {
+  "name": "Pisang rebus",
+  "category": "Snack",
+  "serving": "2 buah",
+  "serving_g": 150,
+  "calories": 134,
+  "protein_g": 1.7,
+  "carbs_g": 34.2,
+  "fat_g": 0.4,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "pisang",
+    "grams": 150
+   }
+  ]
+ },
+ {
+  "name": "Kacang tanah rebus",
+  "category": "Snack",
+  "serving": "1 genggam",
+  "serving_g": 50,
+  "calories": 159,
+  "protein_g": 6.8,
+  "carbs_g": 10.7,
+  "fat_g": 10.9,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "peanut",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "kacang_rebus",
+    "grams": 50
+   }
+  ]
+ },
+ {
+  "name": "Telur rebus",
+  "category": "Snack",
+  "serving": "2 butir",
+  "serving_g": 110,
+  "calories": 170,
+  "protein_g": 13.9,
+  "carbs_g": 1.2,
+  "fat_g": 11.7,
+  "tags": [
+   "budget friendly",
+   "egg",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "telur",
+    "grams": 110
+   }
+  ]
+ },
+ {
+  "name": "Greek yogurt & buah",
+  "category": "Snack",
+  "serving": "1 cup",
+  "serving_g": 220,
+  "calories": 141,
+  "protein_g": 15.4,
+  "carbs_g": 13.6,
+  "fat_g": 3.1,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "yogurt_greek",
+    "grams": 150
+   },
+   {
+    "key": "beri",
+    "grams": 70
+   }
+  ]
+ },
+ {
+  "name": "Edamame",
+  "category": "Snack",
+  "serving": "1 mangkuk",
+  "serving_g": 150,
+  "calories": 182,
+  "protein_g": 17.9,
+  "carbs_g": 13.4,
+  "fat_g": 7.8,
+  "tags": [
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "edamame",
+    "grams": 150
+   }
+  ]
+ },
+ {
+  "name": "Tahu goreng",
+  "category": "Snack",
+  "serving": "3 potong",
+  "serving_g": 132,
+  "calories": 197,
+  "protein_g": 9.7,
+  "carbs_g": 2.3,
+  "fat_g": 17.8,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "tahu",
+    "grams": 120
+   },
+   {
+    "key": "minyak",
+    "grams": 12
+   }
+  ]
+ },
+ {
+  "name": "Protein shake susu",
+  "category": "Snack",
+  "serving": "1 gelas",
+  "serving_g": 275,
+  "calories": 252,
+  "protein_g": 28.0,
+  "carbs_g": 14.0,
+  "fat_g": 9.8,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "susu",
+    "grams": 250
+   },
+   {
+    "key": "whey",
+    "grams": 25
+   }
+  ]
+ },
+ {
+  "name": "Kacang almond",
+  "category": "Snack",
+  "serving": "1 genggam",
+  "serving_g": 28,
+  "calories": 162,
+  "protein_g": 5.9,
+  "carbs_g": 6.0,
+  "fat_g": 14.0,
+  "tags": [
+   "halal",
+   "light",
+   "tree nuts",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "almond",
+    "grams": 28
+   }
+  ]
+ },
+ {
+  "name": "Roti gandum alpukat",
+  "category": "Snack",
+  "serving": "1 slice",
+  "serving_g": 110,
+  "calories": 213,
+  "protein_g": 6.4,
+  "carbs_g": 23.1,
+  "fat_g": 11.7,
+  "tags": [
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "roti_gandum",
+    "grams": 40
+   },
+   {
+    "key": "alpukat",
+    "grams": 70
+   }
+  ]
+ },
+ {
+  "name": "Singkong rebus",
+  "category": "Snack",
+  "serving": "150 g",
+  "serving_g": 150,
+  "calories": 240,
+  "protein_g": 2.1,
+  "carbs_g": 57.0,
+  "fat_g": 0.4,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "singkong",
+    "grams": 150
+   }
+  ]
+ },
+ {
+  "name": "Apel & selai kacang",
+  "category": "Snack",
+  "serving": "1 apel + 1 sdm",
+  "serving_g": 196,
+  "calories": 188,
+  "protein_g": 4.6,
+  "carbs_g": 28.0,
+  "fat_g": 8.4,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "peanut",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "apel",
+    "grams": 180
+   },
+   {
+    "key": "selai_kacang",
+    "grams": 16
+   }
+  ]
+ },
+ {
+  "name": "Yogurt & granola",
+  "category": "Snack",
+  "serving": "1 cup",
+  "serving_g": 210,
+  "calories": 312,
+  "protein_g": 20.9,
+  "carbs_g": 32.3,
+  "fat_g": 11.3,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "yogurt_greek",
+    "grams": 170
+   },
+   {
+    "key": "granola",
+    "grams": 40
+   }
+  ]
+ },
+ {
+  "name": "Pisang goreng",
+  "category": "Snack",
+  "serving": "2 buah",
+  "serving_g": 159,
+  "calories": 322,
+  "protein_g": 3.9,
+  "carbs_g": 46.4,
+  "fat_g": 14.6,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "light",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "pisang",
+    "grams": 120
+   },
+   {
+    "key": "terigu",
+    "grams": 25
+   },
+   {
+    "key": "minyak",
+    "grams": 14
+   }
+  ]
+ },
+ {
+  "name": "Tempe goreng",
+  "category": "Snack",
+  "serving": "3 potong",
+  "serving_g": 97,
+  "calories": 276,
+  "protein_g": 16.5,
+  "carbs_g": 14.9,
+  "fat_g": 18.2,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "indonesian",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "tempe",
+    "grams": 75
+   },
+   {
+    "key": "terigu",
+    "grams": 12
+   },
+   {
+    "key": "minyak",
+    "grams": 10
+   }
+  ]
+ },
+ {
+  "name": "Alpukat",
+  "category": "Snack",
+  "serving": "1/2 buah",
+  "serving_g": 100,
+  "calories": 160,
+  "protein_g": 2.0,
+  "carbs_g": 8.5,
+  "fat_g": 14.7,
+  "tags": [
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "alpukat",
+    "grams": 100
+   }
+  ]
+ },
+ {
+  "name": "Buah potong campur",
+  "category": "Snack",
+  "serving": "1 mangkuk",
+  "serving_g": 280,
+  "calories": 113,
+  "protein_g": 1.4,
+  "carbs_g": 28.8,
+  "fat_g": 0.7,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "pepaya",
+    "grams": 120
+   },
+   {
+    "key": "semangka",
+    "grams": 100
+   },
+   {
+    "key": "apel",
+    "grams": 60
+   }
+  ]
+ },
+ {
+  "name": "Susu kedelai",
+  "category": "Snack",
+  "serving": "1 gelas",
+  "serving_g": 250,
+  "calories": 135,
+  "protein_g": 8.2,
+  "carbs_g": 15.8,
+  "fat_g": 4.5,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "soy",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "susu_kedelai",
+    "grams": 250
+   }
+  ]
+ },
+ {
+  "name": "Keju & crackers",
+  "category": "Snack",
+  "serving": "30 g keju + 5 crackers",
+  "serving_g": 50,
+  "calories": 205,
+  "protein_g": 9.3,
+  "carbs_g": 15.2,
+  "fat_g": 11.9,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian",
+   "wheat"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "keju",
+    "grams": 30
+   },
+   {
+    "key": "crackers",
+    "grams": 20
+   }
+  ]
+ },
+ {
+  "name": "Cottage cheese & buah",
+  "category": "Snack",
+  "serving": "1 cup",
+  "serving_g": 220,
+  "calories": 178,
+  "protein_g": 17.1,
+  "carbs_g": 12.8,
+  "fat_g": 6.7,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "cottage",
+    "grams": 150
+   },
+   {
+    "key": "beri",
+    "grams": 70
+   }
+  ]
+ },
+ {
+  "name": "Jagung rebus",
+  "category": "Snack",
+  "serving": "1 tongkol",
+  "serving_g": 150,
+  "calories": 144,
+  "protein_g": 5.1,
+  "carbs_g": 31.5,
+  "fat_g": 2.2,
+  "tags": [
+   "budget friendly",
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "jagung",
+    "grams": 150
+   }
+  ]
+ },
+ {
+  "name": "Cokelat hitam",
+  "category": "Snack",
+  "serving": "30 g",
+  "serving_g": 30,
+  "calories": 179,
+  "protein_g": 2.3,
+  "carbs_g": 13.8,
+  "fat_g": 12.8,
+  "tags": [
+   "dairy",
+   "halal",
+   "light",
+   "vegan",
+   "vegetarian"
+  ],
+  "budget": "moderate",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "cokelat_hitam",
+    "grams": 30
+   }
+  ]
+ },
+ {
+  "name": "Smoothie pisang susu",
+  "category": "Snack",
+  "serving": "1 gelas",
+  "serving_g": 320,
+  "calories": 229,
+  "protein_g": 7.7,
+  "carbs_g": 37.0,
+  "fat_g": 7.0,
+  "tags": [
+   "budget friendly",
+   "dairy",
+   "halal",
+   "light",
+   "vegetarian"
+  ],
+  "budget": "budget_friendly",
+  "is_halal": true,
+  "ingredients": [
+   {
+    "key": "pisang",
+    "grams": 120
+   },
+   {
+    "key": "susu",
+    "grams": 200
+   }
+  ]
+ }
+]

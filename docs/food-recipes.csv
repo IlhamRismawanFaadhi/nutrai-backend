@@ -1,0 +1,382 @@
+menu,category,serving,serving_g,ingredient_key,ingredient,grams
+Nasi uduk telur,Breakfast,1 piring,310,nasi,Nasi putih,160
+Nasi uduk telur,Breakfast,1 piring,310,santan,Santan,25
+Nasi uduk telur,Breakfast,1 piring,310,telur,Telur ayam utuh,55
+Nasi uduk telur,Breakfast,1 piring,310,tempe,Tempe,30
+Nasi uduk telur,Breakfast,1 piring,310,bihun,Bihun / rice vermicelli,30
+Nasi uduk telur,Breakfast,1 piring,310,minyak,Minyak goreng,10
+Bubur ayam,Breakfast,1 mangkuk,308,nasi,Nasi putih,100
+Bubur ayam,Breakfast,1 mangkuk,308,kaldu,Kaldu,150
+Bubur ayam,Breakfast,1 mangkuk,308,ayam_dada,Dada ayam tanpa kulit,50
+Bubur ayam,Breakfast,1 mangkuk,308,kecap_manis,Kecap manis,5
+Bubur ayam,Breakfast,1 mangkuk,308,minyak,Minyak goreng,3
+Lontong sayur,Breakfast,1 porsi,315,lontong,Lontong,150
+Lontong sayur,Breakfast,1 porsi,315,santan,Santan,60
+Lontong sayur,Breakfast,1 porsi,315,sayur,Sayur campur matang,60
+Lontong sayur,Breakfast,1 porsi,315,tahu,Tahu,40
+Lontong sayur,Breakfast,1 porsi,315,minyak,Minyak goreng,5
+Telur dadar & roti gandum,Breakfast,2 telur + 2 slice,176,telur,Telur ayam utuh,110
+Telur dadar & roti gandum,Breakfast,2 telur + 2 slice,176,minyak,Minyak goreng,6
+Telur dadar & roti gandum,Breakfast,2 telur + 2 slice,176,roti_gandum,Roti gandum,60
+Greek yogurt parfait,Breakfast,1 cup,270,yogurt_greek,Greek yogurt 2%,170
+Greek yogurt parfait,Breakfast,1 cup,270,granola,Granola,40
+Greek yogurt parfait,Breakfast,1 cup,270,beri,Beri campur (stroberi/blueberry),60
+Oatmeal pisang,Breakfast,1 mangkuk,270,oat,Oat gulung (kering),50
+Oatmeal pisang,Breakfast,1 mangkuk,270,pisang,Pisang,100
+Oatmeal pisang,Breakfast,1 mangkuk,270,susu_kedelai,Susu kedelai tanpa gula,120
+Banana peanut toast,Breakfast,2 slice,160,roti_tawar,Roti tawar putih,60
+Banana peanut toast,Breakfast,2 slice,160,selai_kacang,Selai kacang,20
+Banana peanut toast,Breakfast,2 slice,160,pisang,Pisang,80
+Scramble tahu telur,Breakfast,1 porsi,248,telur,Telur ayam utuh,110
+Scramble tahu telur,Breakfast,1 porsi,248,tahu,Tahu,100
+Scramble tahu telur,Breakfast,1 porsi,248,minyak,Minyak goreng,8
+Scramble tahu telur,Breakfast,1 porsi,248,sayur,Sayur campur matang,30
+Smoothie bowl pisang beri,Breakfast,1 mangkuk,345,pisang,Pisang,120
+Smoothie bowl pisang beri,Breakfast,1 mangkuk,345,beri,Beri campur (stroberi/blueberry),80
+Smoothie bowl pisang beri,Breakfast,1 mangkuk,345,susu_kedelai,Susu kedelai tanpa gula,120
+Smoothie bowl pisang beri,Breakfast,1 mangkuk,345,oat,Oat gulung (kering),25
+Telur rebus & ubi,Breakfast,2 telur + 150 g ubi,260,telur,Telur ayam utuh,110
+Telur rebus & ubi,Breakfast,2 telur + 150 g ubi,260,ubi,Ubi jalar rebus,150
+Nasi kuning & telur suwir,Breakfast,1 piring,263,nasi,Nasi putih,150
+Nasi kuning & telur suwir,Breakfast,1 piring,263,santan,Santan,30
+Nasi kuning & telur suwir,Breakfast,1 piring,263,telur,Telur ayam utuh,55
+Nasi kuning & telur suwir,Breakfast,1 piring,263,minyak,Minyak goreng,8
+Nasi kuning & telur suwir,Breakfast,1 piring,263,bihun,Bihun / rice vermicelli,20
+Bubur kacang hijau,Breakfast,1 mangkuk,200,kacang_hijau,Kacang hijau,120
+Bubur kacang hijau,Breakfast,1 mangkuk,200,santan,Santan,60
+Bubur kacang hijau,Breakfast,1 mangkuk,200,gula,Gula / gula merah,20
+Roti bakar cokelat keju,Breakfast,2 slice,95,roti_tawar,Roti tawar putih,60
+Roti bakar cokelat keju,Breakfast,2 slice,95,selai_cokelat,Selai cokelat hazelnut,15
+Roti bakar cokelat keju,Breakfast,2 slice,95,keju,Keju cheddar,15
+Roti bakar cokelat keju,Breakfast,2 slice,95,mentega,Mentega,5
+Pancake pisang oat,Breakfast,3 buah,260,oat,Oat gulung (kering),40
+Pancake pisang oat,Breakfast,3 buah,260,pisang,Pisang,100
+Pancake pisang oat,Breakfast,3 buah,260,telur,Telur ayam utuh,55
+Pancake pisang oat,Breakfast,3 buah,260,susu,Susu sapi full cream,60
+Pancake pisang oat,Breakfast,3 buah,260,minyak,Minyak goreng,5
+Cheese omelette,Breakfast,2 telur,143,telur,Telur ayam utuh,110
+Cheese omelette,Breakfast,2 telur,143,keju,Keju cheddar,25
+Cheese omelette,Breakfast,2 telur,143,mentega,Mentega,8
+Overnight oats buah,Breakfast,1 jar,305,oat,Oat gulung (kering),45
+Overnight oats buah,Breakfast,1 jar,305,susu,Susu sapi full cream,130
+Overnight oats buah,Breakfast,1 jar,305,yogurt_greek,Greek yogurt 2%,60
+Overnight oats buah,Breakfast,1 jar,305,beri,Beri campur (stroberi/blueberry),70
+Dadar jagung,Breakfast,2 potong,174,telur,Telur ayam utuh,55
+Dadar jagung,Breakfast,2 potong,174,jagung,Jagung manis rebus (pipilan),80
+Dadar jagung,Breakfast,2 potong,174,terigu,Tepung terigu,25
+Dadar jagung,Breakfast,2 potong,174,minyak,Minyak goreng,14
+Bubur sumsum,Breakfast,1 mangkuk,105,tepung_beras,Tepung beras,35
+Bubur sumsum,Breakfast,1 mangkuk,105,santan,Santan,50
+Bubur sumsum,Breakfast,1 mangkuk,105,gula,Gula / gula merah,20
+Chicken rice bowl,Lunch,1 mangkuk,366,nasi,Nasi putih,180
+Chicken rice bowl,Lunch,1 mangkuk,366,ayam_dada,Dada ayam tanpa kulit,120
+Chicken rice bowl,Lunch,1 mangkuk,366,sayur,Sayur campur matang,60
+Chicken rice bowl,Lunch,1 mangkuk,366,minyak,Minyak goreng,6
+Nasi pecel tempe,Lunch,1 piring,363,nasi,Nasi putih,180
+Nasi pecel tempe,Lunch,1 piring,363,tempe,Tempe,50
+Nasi pecel tempe,Lunch,1 piring,363,minyak,Minyak goreng,8
+Nasi pecel tempe,Lunch,1 piring,363,selai_kacang,Selai kacang,20
+Nasi pecel tempe,Lunch,1 piring,363,gula,Gula / gula merah,5
+Nasi pecel tempe,Lunch,1 piring,363,sayur,Sayur campur matang,100
+Gado-gado,Lunch,1 piring,411,sayur,Sayur campur matang,150
+Gado-gado,Lunch,1 piring,411,tahu,Tahu,50
+Gado-gado,Lunch,1 piring,411,tempe,Tempe,30
+Gado-gado,Lunch,1 piring,411,telur,Telur ayam utuh,55
+Gado-gado,Lunch,1 piring,411,lontong,Lontong,80
+Gado-gado,Lunch,1 piring,411,selai_kacang,Selai kacang,30
+Gado-gado,Lunch,1 piring,411,gula,Gula / gula merah,8
+Gado-gado,Lunch,1 piring,411,minyak,Minyak goreng,8
+Soto ayam & nasi,Lunch,1 mangkuk + nasi,570,nasi,Nasi putih,160
+Soto ayam & nasi,Lunch,1 mangkuk + nasi,570,ayam_paha,Paha ayam tanpa kulit,70
+Soto ayam & nasi,Lunch,1 mangkuk + nasi,570,kaldu,Kaldu,250
+Soto ayam & nasi,Lunch,1 mangkuk + nasi,570,bihun,Bihun / rice vermicelli,30
+Soto ayam & nasi,Lunch,1 mangkuk + nasi,570,minyak,Minyak goreng,5
+Soto ayam & nasi,Lunch,1 mangkuk + nasi,570,telur,Telur ayam utuh,55
+Nasi ayam bakar & lalapan,Lunch,1 piring,365,nasi,Nasi putih,180
+Nasi ayam bakar & lalapan,Lunch,1 piring,365,ayam_paha,Paha ayam tanpa kulit,120
+Nasi ayam bakar & lalapan,Lunch,1 piring,365,sayur,Sayur campur matang,50
+Nasi ayam bakar & lalapan,Lunch,1 piring,365,kecap_manis,Kecap manis,10
+Nasi ayam bakar & lalapan,Lunch,1 piring,365,minyak,Minyak goreng,5
+Nasi tempe orek & sayur,Lunch,1 piring,354,nasi,Nasi putih,180
+Nasi tempe orek & sayur,Lunch,1 piring,354,tempe,Tempe,70
+Nasi tempe orek & sayur,Lunch,1 piring,354,kecap_manis,Kecap manis,10
+Nasi tempe orek & sayur,Lunch,1 piring,354,gula,Gula / gula merah,4
+Nasi tempe orek & sayur,Lunch,1 piring,354,minyak,Minyak goreng,10
+Nasi tempe orek & sayur,Lunch,1 piring,354,sayur,Sayur campur matang,80
+Pepes ikan & nasi,Lunch,1 piring,333,nasi,Nasi putih,180
+Pepes ikan & nasi,Lunch,1 piring,333,nila,Ikan nila / ikan putih,120
+Pepes ikan & nasi,Lunch,1 piring,333,sayur,Sayur campur matang,30
+Pepes ikan & nasi,Lunch,1 piring,333,minyak,Minyak goreng,3
+Mie ayam,Lunch,1 mangkuk,420,mie_telur,Mie telur,200
+Mie ayam,Lunch,1 mangkuk,420,ayam_paha,Paha ayam tanpa kulit,60
+Mie ayam,Lunch,1 mangkuk,420,minyak,Minyak goreng,10
+Mie ayam,Lunch,1 mangkuk,420,kecap_manis,Kecap manis,10
+Mie ayam,Lunch,1 mangkuk,420,sayur,Sayur campur matang,40
+Mie ayam,Lunch,1 mangkuk,420,kaldu,Kaldu,100
+Nasi rawon,Lunch,1 piring,550,nasi,Nasi putih,170
+Nasi rawon,Lunch,1 piring,550,sapi,Daging sapi (campur lemak),80
+Nasi rawon,Lunch,1 piring,550,kaldu,Kaldu,250
+Nasi rawon,Lunch,1 piring,550,sayur,Sayur campur matang,40
+Nasi rawon,Lunch,1 piring,550,minyak,Minyak goreng,10
+Tuna sandwich gandum,Lunch,1 sandwich,195,roti_gandum,Roti gandum,70
+Tuna sandwich gandum,Lunch,1 sandwich,195,tuna,"Tuna kaleng (air, ditiriskan)",80
+Tuna sandwich gandum,Lunch,1 sandwich,195,mayo,Mayones,15
+Tuna sandwich gandum,Lunch,1 sandwich,195,sayur,Sayur campur matang,30
+Nasi goreng sayur telur,Lunch,1 piring,329,nasi,Nasi putih,200
+Nasi goreng sayur telur,Lunch,1 piring,329,telur,Telur ayam utuh,55
+Nasi goreng sayur telur,Lunch,1 piring,329,minyak,Minyak goreng,12
+Nasi goreng sayur telur,Lunch,1 piring,329,sayur,Sayur campur matang,50
+Nasi goreng sayur telur,Lunch,1 piring,329,kecap_manis,Kecap manis,12
+Char siu rice,Lunch,1 piring,360,nasi,Nasi putih,180
+Char siu rice,Lunch,1 piring,360,babi,Daging babi,100
+Char siu rice,Lunch,1 piring,360,kecap_manis,Kecap manis,15
+Char siu rice,Lunch,1 piring,360,gula,Gula / gula merah,10
+Char siu rice,Lunch,1 piring,360,sayur,Sayur campur matang,50
+Char siu rice,Lunch,1 piring,360,minyak,Minyak goreng,5
+Nasi padang ayam pop,Lunch,1 piring,512,nasi,Nasi putih,220
+Nasi padang ayam pop,Lunch,1 piring,512,ayam_paha,Paha ayam tanpa kulit,130
+Nasi padang ayam pop,Lunch,1 piring,512,minyak,Minyak goreng,12
+Nasi padang ayam pop,Lunch,1 piring,512,santan,Santan,50
+Nasi padang ayam pop,Lunch,1 piring,512,sayur,Sayur campur matang,100
+Nasi padang rendang,Lunch,1 piring,470,nasi,Nasi putih,220
+Nasi padang rendang,Lunch,1 piring,470,sapi,Daging sapi (campur lemak),90
+Nasi padang rendang,Lunch,1 piring,470,santan,Santan,50
+Nasi padang rendang,Lunch,1 piring,470,minyak,Minyak goreng,10
+Nasi padang rendang,Lunch,1 piring,470,sayur,Sayur campur matang,100
+Soto betawi,Lunch,1 mangkuk,515,sapi,Daging sapi (campur lemak),80
+Soto betawi,Lunch,1 mangkuk,515,santan,Santan,120
+Soto betawi,Lunch,1 mangkuk,515,kaldu,Kaldu,250
+Soto betawi,Lunch,1 mangkuk,515,kentang,Kentang rebus,60
+Soto betawi,Lunch,1 mangkuk,515,minyak,Minyak goreng,5
+Bakso & mie,Lunch,1 mangkuk,533,sapi_giling,Daging sapi giling,80
+Bakso & mie,Lunch,1 mangkuk,533,tepung_beras,Tepung beras,40
+Bakso & mie,Lunch,1 mangkuk,533,mie_telur,Mie telur,120
+Bakso & mie,Lunch,1 mangkuk,533,kaldu,Kaldu,250
+Bakso & mie,Lunch,1 mangkuk,533,sayur,Sayur campur matang,40
+Bakso & mie,Lunch,1 mangkuk,533,minyak,Minyak goreng,3
+Nasi liwet ayam,Lunch,1 piring,430,nasi,Nasi putih,220
+Nasi liwet ayam,Lunch,1 piring,430,santan,Santan,40
+Nasi liwet ayam,Lunch,1 piring,430,ayam_paha,Paha ayam tanpa kulit,100
+Nasi liwet ayam,Lunch,1 piring,430,tempe,Tempe,30
+Nasi liwet ayam,Lunch,1 piring,430,minyak,Minyak goreng,10
+Nasi liwet ayam,Lunch,1 piring,430,sayur,Sayur campur matang,30
+Gudeg nasi telur,Lunch,1 piring,418,nasi,Nasi putih,170
+Gudeg nasi telur,Lunch,1 piring,418,nangka_muda,Nangka,120
+Gudeg nasi telur,Lunch,1 piring,418,santan,Santan,50
+Gudeg nasi telur,Lunch,1 piring,418,gula,Gula / gula merah,15
+Gudeg nasi telur,Lunch,1 piring,418,telur,Telur ayam utuh,55
+Gudeg nasi telur,Lunch,1 piring,418,minyak,Minyak goreng,8
+Karedok,Lunch,1 porsi,268,sayur,Sayur campur matang,200
+Karedok,Lunch,1 porsi,268,selai_kacang,Selai kacang,30
+Karedok,Lunch,1 porsi,268,gula,Gula / gula merah,8
+Karedok,Lunch,1 porsi,268,tempe,Tempe,30
+Ketoprak,Lunch,1 piring,358,lontong,Lontong,150
+Ketoprak,Lunch,1 piring,358,bihun,Bihun / rice vermicelli,50
+Ketoprak,Lunch,1 piring,358,tahu,Tahu,70
+Ketoprak,Lunch,1 piring,358,minyak,Minyak goreng,10
+Ketoprak,Lunch,1 piring,358,selai_kacang,Selai kacang,30
+Ketoprak,Lunch,1 piring,358,gula,Gula / gula merah,8
+Ketoprak,Lunch,1 piring,358,sayur,Sayur campur matang,40
+Mie goreng telur,Lunch,1 piring,384,mie_telur,Mie telur,250
+Mie goreng telur,Lunch,1 piring,384,telur,Telur ayam utuh,55
+Mie goreng telur,Lunch,1 piring,384,minyak,Minyak goreng,14
+Mie goreng telur,Lunch,1 piring,384,kecap_manis,Kecap manis,15
+Mie goreng telur,Lunch,1 piring,384,sayur,Sayur campur matang,50
+Chicken caesar wrap,Lunch,1 wrap,255,tortilla,Tortilla gandum,70
+Chicken caesar wrap,Lunch,1 wrap,255,ayam_dada,Dada ayam tanpa kulit,100
+Chicken caesar wrap,Lunch,1 wrap,255,sayur,Sayur campur matang,50
+Chicken caesar wrap,Lunch,1 wrap,255,dressing_caesar,Dressing Caesar,25
+Chicken caesar wrap,Lunch,1 wrap,255,keju,Keju cheddar,10
+Tuna poke bowl,Lunch,1 mangkuk,400,nasi,Nasi putih,180
+Tuna poke bowl,Lunch,1 mangkuk,400,tuna,"Tuna kaleng (air, ditiriskan)",100
+Tuna poke bowl,Lunch,1 mangkuk,400,alpukat,Alpukat,50
+Tuna poke bowl,Lunch,1 mangkuk,400,sayur,Sayur campur matang,50
+Tuna poke bowl,Lunch,1 mangkuk,400,teriyaki,Saus teriyaki,15
+Tuna poke bowl,Lunch,1 mangkuk,400,minyak,Minyak goreng,5
+Kari sayur & nasi,Lunch,1 piring,510,nasi,Nasi putih,200
+Kari sayur & nasi,Lunch,1 piring,510,sayur,Sayur campur matang,150
+Kari sayur & nasi,Lunch,1 piring,510,santan,Santan,70
+Kari sayur & nasi,Lunch,1 piring,510,kentang,Kentang rebus,80
+Kari sayur & nasi,Lunch,1 piring,510,minyak,Minyak goreng,10
+Nasi ayam geprek,Lunch,1 piring,393,nasi,Nasi putih,200
+Nasi ayam geprek,Lunch,1 piring,393,ayam_paha,Paha ayam tanpa kulit,120
+Nasi ayam geprek,Lunch,1 piring,393,terigu,Tepung terigu,25
+Nasi ayam geprek,Lunch,1 piring,393,minyak,Minyak goreng,18
+Nasi ayam geprek,Lunch,1 piring,393,sayur,Sayur campur matang,30
+Tofu soba stir fry,Dinner,1 porsi,423,soba,Soba,180
+Tofu soba stir fry,Dinner,1 porsi,423,tahu,Tahu,120
+Tofu soba stir fry,Dinner,1 porsi,423,sayur,Sayur campur matang,100
+Tofu soba stir fry,Dinner,1 porsi,423,minyak,Minyak goreng,8
+Tofu soba stir fry,Dinner,1 porsi,423,teriyaki,Saus teriyaki,15
+Salmon quinoa bowl,Dinner,1 mangkuk,345,salmon,Salmon,130
+Salmon quinoa bowl,Dinner,1 mangkuk,345,quinoa,Quinoa,150
+Salmon quinoa bowl,Dinner,1 mangkuk,345,sayur,Sayur campur matang,60
+Salmon quinoa bowl,Dinner,1 mangkuk,345,minyak,Minyak goreng,5
+Chicken vegetable soup,Dinner,1 mangkuk,530,ayam_dada,Dada ayam tanpa kulit,100
+Chicken vegetable soup,Dinner,1 mangkuk,530,sayur,Sayur campur matang,120
+Chicken vegetable soup,Dinner,1 mangkuk,530,kentang,Kentang rebus,60
+Chicken vegetable soup,Dinner,1 mangkuk,530,kaldu,Kaldu,250
+Chicken noodle soup,Dinner,1 mangkuk,523,ayam_dada,Dada ayam tanpa kulit,80
+Chicken noodle soup,Dinner,1 mangkuk,523,mie_telur,Mie telur,150
+Chicken noodle soup,Dinner,1 mangkuk,523,sayur,Sayur campur matang,40
+Chicken noodle soup,Dinner,1 mangkuk,523,kaldu,Kaldu,250
+Chicken noodle soup,Dinner,1 mangkuk,523,minyak,Minyak goreng,3
+Grilled chicken potato plate,Dinner,1 piring,418,ayam_dada,Dada ayam tanpa kulit,150
+Grilled chicken potato plate,Dinner,1 piring,418,kentang,Kentang rebus,200
+Grilled chicken potato plate,Dinner,1 piring,418,sayur,Sayur campur matang,60
+Grilled chicken potato plate,Dinner,1 piring,418,minyak,Minyak goreng,8
+Tempeh rice bowl,Dinner,1 mangkuk,376,nasi,Nasi putih,180
+Tempeh rice bowl,Dinner,1 mangkuk,376,tempe,Tempe,100
+Tempeh rice bowl,Dinner,1 mangkuk,376,sayur,Sayur campur matang,80
+Tempeh rice bowl,Dinner,1 mangkuk,376,kecap_manis,Kecap manis,8
+Tempeh rice bowl,Dinner,1 mangkuk,376,minyak,Minyak goreng,8
+Pecel lele & nasi,Dinner,1 piring,388,nasi,Nasi putih,180
+Pecel lele & nasi,Dinner,1 piring,388,lele,Ikan lele,120
+Pecel lele & nasi,Dinner,1 piring,388,minyak,Minyak goreng,15
+Pecel lele & nasi,Dinner,1 piring,388,selai_kacang,Selai kacang,20
+Pecel lele & nasi,Dinner,1 piring,388,gula,Gula / gula merah,3
+Pecel lele & nasi,Dinner,1 piring,388,sayur,Sayur campur matang,50
+Ikan bakar & sayur asem,Dinner,1 ikan + nasi,434,nasi,Nasi putih,150
+Ikan bakar & sayur asem,Dinner,1 ikan + nasi,434,nila,Ikan nila / ikan putih,150
+Ikan bakar & sayur asem,Dinner,1 ikan + nasi,434,sayur,Sayur campur matang,120
+Ikan bakar & sayur asem,Dinner,1 ikan + nasi,434,kecap_manis,Kecap manis,10
+Ikan bakar & sayur asem,Dinner,1 ikan + nasi,434,minyak,Minyak goreng,4
+Capcay ayam,Dinner,1 porsi,315,ayam_dada,Dada ayam tanpa kulit,90
+Capcay ayam,Dinner,1 porsi,315,sayur,Sayur campur matang,200
+Capcay ayam,Dinner,1 porsi,315,minyak,Minyak goreng,10
+Capcay ayam,Dinner,1 porsi,315,saus_tiram,Saus tiram,15
+Sayur lodeh & tempe,Dinner,1 mangkuk + nasi,436,nasi,Nasi putih,150
+Sayur lodeh & tempe,Dinner,1 mangkuk + nasi,436,sayur,Sayur campur matang,150
+Sayur lodeh & tempe,Dinner,1 mangkuk + nasi,436,santan,Santan,80
+Sayur lodeh & tempe,Dinner,1 mangkuk + nasi,436,tempe,Tempe,50
+Sayur lodeh & tempe,Dinner,1 mangkuk + nasi,436,minyak,Minyak goreng,6
+Sate ayam & lontong,Dinner,10 tusuk,340,ayam_paha,Paha ayam tanpa kulit,130
+Sate ayam & lontong,Dinner,10 tusuk,340,selai_kacang,Selai kacang,35
+Sate ayam & lontong,Dinner,10 tusuk,340,kecap_manis,Kecap manis,15
+Sate ayam & lontong,Dinner,10 tusuk,340,lontong,Lontong,150
+Sate ayam & lontong,Dinner,10 tusuk,340,minyak,Minyak goreng,5
+Sate ayam & lontong,Dinner,10 tusuk,340,gula,Gula / gula merah,5
+Udang saus tiram & nasi,Dinner,1 piring,398,nasi,Nasi putih,180
+Udang saus tiram & nasi,Dinner,1 piring,398,udang,Udang,130
+Udang saus tiram & nasi,Dinner,1 piring,398,saus_tiram,Saus tiram,20
+Udang saus tiram & nasi,Dinner,1 piring,398,minyak,Minyak goreng,8
+Udang saus tiram & nasi,Dinner,1 piring,398,sayur,Sayur campur matang,60
+Beef stir fry & brown rice,Dinner,1 piring,415,nasi_merah,Nasi merah,180
+Beef stir fry & brown rice,Dinner,1 piring,415,sapi,Daging sapi (campur lemak),110
+Beef stir fry & brown rice,Dinner,1 piring,415,saus_tiram,Saus tiram,15
+Beef stir fry & brown rice,Dinner,1 piring,415,minyak,Minyak goreng,10
+Beef stir fry & brown rice,Dinner,1 piring,415,sayur,Sayur campur matang,100
+Bak kut teh & nasi,Dinner,1 mangkuk,583,nasi,Nasi putih,170
+Bak kut teh & nasi,Dinner,1 mangkuk,583,babi,Daging babi,100
+Bak kut teh & nasi,Dinner,1 mangkuk,583,kaldu,Kaldu,300
+Bak kut teh & nasi,Dinner,1 mangkuk,583,kecap_manis,Kecap manis,10
+Bak kut teh & nasi,Dinner,1 mangkuk,583,minyak,Minyak goreng,3
+Pasta ayam jamur,Dinner,1 piring,415,spaghetti,Spaghetti,220
+Pasta ayam jamur,Dinner,1 piring,415,ayam_dada,Dada ayam tanpa kulit,90
+Pasta ayam jamur,Dinner,1 piring,415,jamur,Jamur champignon rebus,60
+Pasta ayam jamur,Dinner,1 piring,415,krim,Krim kental (heavy cream),40
+Pasta ayam jamur,Dinner,1 piring,415,minyak,Minyak goreng,5
+Spaghetti bolognese,Dinner,1 piring,405,spaghetti,Spaghetti,220
+Spaghetti bolognese,Dinner,1 piring,405,sapi_giling,Daging sapi giling,80
+Spaghetti bolognese,Dinner,1 piring,405,saus_tomat,Saus tomat,100
+Spaghetti bolognese,Dinner,1 piring,405,minyak,Minyak goreng,5
+Steak ayam & sayur panggang,Dinner,1 piring,300,ayam_dada,Dada ayam tanpa kulit,170
+Steak ayam & sayur panggang,Dinner,1 piring,300,sayur,Sayur campur matang,120
+Steak ayam & sayur panggang,Dinner,1 piring,300,minyak,Minyak goreng,10
+Gurame asam manis & nasi,Dinner,1 piring,414,nasi,Nasi putih,180
+Gurame asam manis & nasi,Dinner,1 piring,414,nila,Ikan nila / ikan putih,140
+Gurame asam manis & nasi,Dinner,1 piring,414,minyak,Minyak goreng,12
+Gurame asam manis & nasi,Dinner,1 piring,414,saus_tomat,Saus tomat,40
+Gurame asam manis & nasi,Dinner,1 piring,414,gula,Gula / gula merah,12
+Gurame asam manis & nasi,Dinner,1 piring,414,sayur,Sayur campur matang,30
+Tumis kangkung tahu & nasi,Dinner,1 piring,418,nasi,Nasi putih,180
+Tumis kangkung tahu & nasi,Dinner,1 piring,418,tahu,Tahu,120
+Tumis kangkung tahu & nasi,Dinner,1 piring,418,sayur,Sayur campur matang,100
+Tumis kangkung tahu & nasi,Dinner,1 piring,418,minyak,Minyak goreng,8
+Tumis kangkung tahu & nasi,Dinner,1 piring,418,saus_tiram,Saus tiram,10
+Semur daging & nasi,Dinner,1 piring,346,nasi,Nasi putih,180
+Semur daging & nasi,Dinner,1 piring,346,sapi,Daging sapi (campur lemak),90
+Semur daging & nasi,Dinner,1 piring,346,kecap_manis,Kecap manis,20
+Semur daging & nasi,Dinner,1 piring,346,kentang,Kentang rebus,50
+Semur daging & nasi,Dinner,1 piring,346,minyak,Minyak goreng,6
+Opor ayam & lontong,Dinner,1 porsi,365,lontong,Lontong,150
+Opor ayam & lontong,Dinner,1 porsi,365,ayam_paha,Paha ayam tanpa kulit,110
+Opor ayam & lontong,Dinner,1 porsi,365,santan,Santan,100
+Opor ayam & lontong,Dinner,1 porsi,365,minyak,Minyak goreng,5
+Ikan nila goreng & nasi,Dinner,1 piring,382,nasi,Nasi putih,180
+Ikan nila goreng & nasi,Dinner,1 piring,382,nila,Ikan nila / ikan putih,150
+Ikan nila goreng & nasi,Dinner,1 piring,382,minyak,Minyak goreng,12
+Ikan nila goreng & nasi,Dinner,1 piring,382,sayur,Sayur campur matang,40
+Telur balado & nasi,Dinner,1 piring,342,nasi,Nasi putih,180
+Telur balado & nasi,Dinner,1 piring,342,telur,Telur ayam utuh,110
+Telur balado & nasi,Dinner,1 piring,342,minyak,Minyak goreng,12
+Telur balado & nasi,Dinner,1 piring,342,saus_tomat,Saus tomat,20
+Telur balado & nasi,Dinner,1 piring,342,sayur,Sayur campur matang,20
+Tahu tempe penyet & nasi,Dinner,1 piring,374,nasi,Nasi putih,180
+Tahu tempe penyet & nasi,Dinner,1 piring,374,tahu,Tahu,80
+Tahu tempe penyet & nasi,Dinner,1 piring,374,tempe,Tempe,60
+Tahu tempe penyet & nasi,Dinner,1 piring,374,minyak,Minyak goreng,14
+Tahu tempe penyet & nasi,Dinner,1 piring,374,sayur,Sayur campur matang,40
+Sup ayam jamur,Dinner,1 mangkuk,480,ayam_dada,Dada ayam tanpa kulit,90
+Sup ayam jamur,Dinner,1 mangkuk,480,jamur,Jamur champignon rebus,60
+Sup ayam jamur,Dinner,1 mangkuk,480,sayur,Sayur campur matang,80
+Sup ayam jamur,Dinner,1 mangkuk,480,kaldu,Kaldu,250
+Cumi saus padang & nasi,Dinner,1 piring,405,nasi,Nasi putih,180
+Cumi saus padang & nasi,Dinner,1 piring,405,cumi,Cumi-cumi,150
+Cumi saus padang & nasi,Dinner,1 piring,405,saus_tomat,Saus tomat,60
+Cumi saus padang & nasi,Dinner,1 piring,405,minyak,Minyak goreng,10
+Cumi saus padang & nasi,Dinner,1 piring,405,gula,Gula / gula merah,5
+Chicken teriyaki & rice,Dinner,1 piring,405,nasi,Nasi putih,180
+Chicken teriyaki & rice,Dinner,1 piring,405,ayam_paha,Paha ayam tanpa kulit,120
+Chicken teriyaki & rice,Dinner,1 piring,405,teriyaki,Saus teriyaki,40
+Chicken teriyaki & rice,Dinner,1 piring,405,sayur,Sayur campur matang,60
+Chicken teriyaki & rice,Dinner,1 piring,405,minyak,Minyak goreng,5
+Tofu veggie curry,Dinner,1 mangkuk,405,tahu,Tahu,200
+Tofu veggie curry,Dinner,1 mangkuk,405,sayur,Sayur campur matang,120
+Tofu veggie curry,Dinner,1 mangkuk,405,santan,Santan,80
+Tofu veggie curry,Dinner,1 mangkuk,405,minyak,Minyak goreng,5
+Grilled salmon & sweet potato,Dinner,1 piring,375,salmon,Salmon,130
+Grilled salmon & sweet potato,Dinner,1 piring,375,ubi,Ubi jalar rebus,180
+Grilled salmon & sweet potato,Dinner,1 piring,375,sayur,Sayur campur matang,60
+Grilled salmon & sweet potato,Dinner,1 piring,375,minyak,Minyak goreng,5
+Sup lentil,Dinner,1 mangkuk,485,lentil,Lentil,200
+Sup lentil,Dinner,1 mangkuk,485,sayur,Sayur campur matang,80
+Sup lentil,Dinner,1 mangkuk,485,kaldu,Kaldu,200
+Sup lentil,Dinner,1 mangkuk,485,minyak,Minyak goreng,5
+Pisang rebus,Snack,2 buah,150,pisang,Pisang,150
+Kacang tanah rebus,Snack,1 genggam,50,kacang_rebus,Kacang tanah rebus,50
+Telur rebus,Snack,2 butir,110,telur,Telur ayam utuh,110
+Greek yogurt & buah,Snack,1 cup,220,yogurt_greek,Greek yogurt 2%,150
+Greek yogurt & buah,Snack,1 cup,220,beri,Beri campur (stroberi/blueberry),70
+Edamame,Snack,1 mangkuk,150,edamame,Edamame,150
+Tahu goreng,Snack,3 potong,132,tahu,Tahu,120
+Tahu goreng,Snack,3 potong,132,minyak,Minyak goreng,12
+Protein shake susu,Snack,1 gelas,275,susu,Susu sapi full cream,250
+Protein shake susu,Snack,1 gelas,275,whey,Whey protein (bubuk),25
+Kacang almond,Snack,1 genggam,28,almond,Almond,28
+Roti gandum alpukat,Snack,1 slice,110,roti_gandum,Roti gandum,40
+Roti gandum alpukat,Snack,1 slice,110,alpukat,Alpukat,70
+Singkong rebus,Snack,150 g,150,singkong,Singkong rebus,150
+Apel & selai kacang,Snack,1 apel + 1 sdm,196,apel,Apel,180
+Apel & selai kacang,Snack,1 apel + 1 sdm,196,selai_kacang,Selai kacang,16
+Yogurt & granola,Snack,1 cup,210,yogurt_greek,Greek yogurt 2%,170
+Yogurt & granola,Snack,1 cup,210,granola,Granola,40
+Pisang goreng,Snack,2 buah,159,pisang,Pisang,120
+Pisang goreng,Snack,2 buah,159,terigu,Tepung terigu,25
+Pisang goreng,Snack,2 buah,159,minyak,Minyak goreng,14
+Tempe goreng,Snack,3 potong,97,tempe,Tempe,75
+Tempe goreng,Snack,3 potong,97,terigu,Tepung terigu,12
+Tempe goreng,Snack,3 potong,97,minyak,Minyak goreng,10
+Alpukat,Snack,1/2 buah,100,alpukat,Alpukat,100
+Buah potong campur,Snack,1 mangkuk,280,pepaya,Pepaya,120
+Buah potong campur,Snack,1 mangkuk,280,semangka,Semangka,100
+Buah potong campur,Snack,1 mangkuk,280,apel,Apel,60
+Susu kedelai,Snack,1 gelas,250,susu_kedelai,Susu kedelai tanpa gula,250
+Keju & crackers,Snack,30 g keju + 5 crackers,50,keju,Keju cheddar,30
+Keju & crackers,Snack,30 g keju + 5 crackers,50,crackers,Crackers asin,20
+Cottage cheese & buah,Snack,1 cup,220,cottage,Cottage cheese,150
+Cottage cheese & buah,Snack,1 cup,220,beri,Beri campur (stroberi/blueberry),70
+Jagung rebus,Snack,1 tongkol,150,jagung,Jagung manis rebus (pipilan),150
+Cokelat hitam,Snack,30 g,30,cokelat_hitam,Cokelat hitam 70-85%,30
+Smoothie pisang susu,Snack,1 gelas,320,pisang,Pisang,120
+Smoothie pisang susu,Snack,1 gelas,320,susu,Susu sapi full cream,200
